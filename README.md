@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristian Becerra</h1>
-<h3 align="center">Un apasionado desarrollador backend de Perú</h3>
+<h3 align="center">A passionate backend developer from Perú</h3>
 <img align="right" alt ="Coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
 <br>
 - 🔭 I’m currently working on [Android App Employment Cusco](https://play.google.com/store/apps/details?id=com.guamanpoma.empleocuscojava)
