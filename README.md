@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Cristian, Web Development freelance 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Cristian, Web Developer freelance 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on [Guaman Poma de Ayala](https://guamanpoma.org/)  
