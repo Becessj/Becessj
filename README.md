@@ -3,10 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Cristian, Web Developer freelance 👨‍💻 working remotely since 2019 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Guaman Poma de Ayala](https://guamanpoma.org/)  
+### <div align="center">I'm Cristian, Frontend Developer freelance 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
